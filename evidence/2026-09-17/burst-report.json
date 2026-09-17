@@ -1,0 +1,92 @@
+{
+  "prs": [
+    {
+      "pr": 1,
+      "state": "MERGED",
+      "queue_request_at": "2026-09-17T22:07:03Z",
+      "merged_at": "2026-09-17T22:07:12Z",
+      "observed_heads": [
+        "ccd471ac8d97d9f73c212bf0139048269e15a46f"
+      ],
+      "request_to_merge_seconds": 9.0
+    },
+    {
+      "pr": 2,
+      "state": "MERGED",
+      "queue_request_at": "2026-09-17T22:07:05Z",
+      "merged_at": "2026-09-17T22:08:03Z",
+      "observed_heads": [
+        "ffd09fbff64c7d5e5f50c26e06fbf003b80792d5",
+        "f2be737a84db179525c77a35d52d88bacf5aa700"
+      ],
+      "request_to_merge_seconds": 58.0
+    },
+    {
+      "pr": 3,
+      "state": "MERGED",
+      "queue_request_at": "2026-09-17T22:07:07Z",
+      "merged_at": "2026-09-17T22:08:51Z",
+      "observed_heads": [
+        "5107da2cd47a4b7d01230481fa0ec8d06cc1dd61",
+        "f33a20887481b8b4df8b0f320eb7520216d5b652"
+      ],
+      "request_to_merge_seconds": 104.0
+    }
+  ],
+  "jobs": [
+    {
+      "run": 35280487097,
+      "attempt": 1,
+      "sha": "f33a20887481b8b4df8b0f320eb7520216d5b652",
+      "name": "Source audit",
+      "conclusion": "success",
+      "run_created_to_job_start_seconds": 3.0,
+      "execution_seconds": 24.0
+    },
+    {
+      "run": 35280412757,
+      "attempt": 1,
+      "sha": "f2be737a84db179525c77a35d52d88bacf5aa700",
+      "name": "Source audit",
+      "conclusion": "success",
+      "run_created_to_job_start_seconds": 4.0,
+      "execution_seconds": 25.0
+    },
+    {
+      "run": 35037872505,
+      "attempt": 1,
+      "sha": "5107da2cd47a4b7d01230481fa0ec8d06cc1dd61",
+      "name": "Source audit",
+      "conclusion": "success",
+      "run_created_to_job_start_seconds": 2.0,
+      "execution_seconds": 24.0
+    },
+    {
+      "run": 35037795726,
+      "attempt": 1,
+      "sha": "ffd09fbff64c7d5e5f50c26e06fbf003b80792d5",
+      "name": "Source audit",
+      "conclusion": "success",
+      "run_created_to_job_start_seconds": 2.0,
+      "execution_seconds": 25.0
+    },
+    {
+      "run": 35037728385,
+      "attempt": 1,
+      "sha": "ccd471ac8d97d9f73c212bf0139048269e15a46f",
+      "name": "Source audit",
+      "conclusion": "success",
+      "run_created_to_job_start_seconds": 3.0,
+      "execution_seconds": 24.0
+    }
+  ],
+  "merged_samples": 3,
+  "request_to_merge_median_seconds": 58.0,
+  "request_to_merge_max_seconds": 104.0,
+  "limits": [
+    "Label time is an opt-in request, not evidence of bot acceptance.",
+    "Run creation to job start includes scheduling and setup; it is not a pure runner-capacity measure.",
+    "This short Linux fixture measures coordination, not macOS throughput or a stable p95.",
+    "Polling can miss intermediate heads; raw run identities and timelines remain evidence."
+  ]
+}

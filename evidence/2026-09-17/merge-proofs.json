@@ -1,0 +1,90 @@
+[
+  {
+    "pr": 1,
+    "actor": "kodiakhq[bot]",
+    "head": "ccd471ac8d97d9f73c212bf0139048269e15a46f",
+    "mergedAt": "2026-09-17T22:07:12Z",
+    "mergeCommit": "2db8e2b9147204711d81e9fd2b708e4ed32ada30",
+    "winningRun": 35037728385,
+    "testedCandidate": "8549cc7b6803510a5c7e9257c29f433ebc3de7fc",
+    "treeMatches": true,
+    "tree": "d10937feb349da323b5e0da30f0e0c1ac9c7609b"
+  },
+  {
+    "pr": 2,
+    "actor": "kodiakhq[bot]",
+    "head": "f2be737a84db179525c77a35d52d88bacf5aa700",
+    "mergedAt": "2026-09-17T22:08:03Z",
+    "mergeCommit": "1e014641568992518781d93e9970898caf89d689",
+    "winningRun": 35280412757,
+    "testedCandidate": "3bb9ef3031bfa9c68db729c5678f90ded5a60d6b",
+    "treeMatches": true,
+    "tree": "4f2601d693cfdea4890191ca81c9f111b23373b5"
+  },
+  {
+    "pr": 3,
+    "actor": "kodiakhq[bot]",
+    "head": "f33a20887481b8b4df8b0f320eb7520216d5b652",
+    "mergedAt": "2026-09-17T22:08:51Z",
+    "mergeCommit": "d86a1841a31b70cdef848aeac49b2c1fe3780849",
+    "winningRun": 35280487097,
+    "testedCandidate": "b2a41d82dc82268c8687cb707e51772b534c1013",
+    "treeMatches": true,
+    "tree": "b0b0ee1cdb2871ab128a7dd00d5a6effb1b1fa90"
+  },
+  {
+    "pr": 4,
+    "actor": "kodiakhq[bot]",
+    "head": "7fee46a008192aea02df3b85244604f3f67bbf05",
+    "mergedAt": "2026-09-17T22:11:19Z",
+    "mergeCommit": "255e9b2bea43530905198b31ee6de44ee733e661",
+    "winningRun": 35280674577,
+    "testedCandidate": "07b67b329b13ed12425b898f2989b7e818a51491",
+    "treeMatches": true,
+    "tree": "9876e0e86428ed7df7588ae72221e681334ec451"
+  },
+  {
+    "pr": 5,
+    "actor": "kodiakhq[bot]",
+    "head": "4fdb00a506b422ebfa3c6f60c7b1e817c875a19a",
+    "mergedAt": "2026-09-17T22:14:25Z",
+    "mergeCommit": "4cc051112fae623a0197c7d5dd508922fc3e6b15",
+    "winningRun": 35280958461,
+    "testedCandidate": "58db238528d1d757885b00494697bfb1a0a67d00",
+    "treeMatches": true,
+    "tree": "8e11699cf4f0c0a37bcbc8f4120aa3eca38c0d4b"
+  },
+  {
+    "pr": 6,
+    "actor": "kodiakhq[bot]",
+    "head": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+    "mergedAt": "2026-09-17T22:16:01Z",
+    "mergeCommit": "0772e04ae38e9dd27514dd2809e0147d7a65e1d5",
+    "winningRun": 35281095261,
+    "testedCandidate": "7c43f5b70e40760268b8d16cd099e7584757fb77",
+    "treeMatches": true,
+    "tree": "d86e0dbc1fa0ccdb68bbaf810589bf33a76336b7"
+  },
+  {
+    "pr": 7,
+    "actor": "kodiakhq[bot]",
+    "head": "1024c71682363b2707d89e3821934dec00f63336",
+    "mergedAt": "2026-09-17T22:21:51Z",
+    "mergeCommit": "c67d97818431f4a38cb7f8e8f1e0d77c46e0ebe9",
+    "winningRun": 35281214359,
+    "testedCandidate": "be45232f2d287eb33f8038af4ee72ebd8d000ba4",
+    "treeMatches": true,
+    "tree": "3a3bde92a139b2f2fb5df02932386d9a1ae5a78a"
+  },
+  {
+    "pr": 8,
+    "actor": "kodiakhq[bot]",
+    "head": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+    "mergedAt": "2026-09-17T22:24:57Z",
+    "mergeCommit": "23b604abc233b8ca23a01589d847ae18e24ad500",
+    "winningRun": 35281865700,
+    "testedCandidate": "3813197801663cd65ebe64b2c1c43506da755291",
+    "treeMatches": true,
+    "tree": "0e54692a464983739448e3ad1b1961043f2e33aa"
+  }
+]

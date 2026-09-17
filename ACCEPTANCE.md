@@ -30,8 +30,18 @@ Then create fresh cases from the resulting main so the baseline is preserved:
    the same existing `cases/base.json` value differently. Keep `pass: true`
    and change a new `variant` field. Admit both. After one merges, the second
    must stop with a real conflict; resolve it explicitly, then require fresh CI.
+   Observed 17 September: the bot removes `merge-queue` on conflict. Review the
+   resolution, verify its current required check, and explicitly re-add that
+   label. A resolved, green PR without the label is awaiting re-admission.
+   Keep the initial admission time as well as the re-admission time; do not
+   hide the conflict/recovery wait by reporting only the second clock.
 4. **Explicit hold:** apply `queue-hold` to a fresh admitted passing PR. It
-   must remain unmerged until that label is removed.
+   must remain unmerged until that label is removed. Establish that it is clean
+   and green while held. Then edit the held source and remove the hold during
+   the new check; the previous green result must not authorize the edit.
+   GitHub PR queries can briefly return the pre-push head: wait for the expected
+   head before sampling its check. If the audit completes before the release
+   observation, preserve the hold and repeat with a fresh edit.
 
 Save each case's PR numbers, raw snapshots, head identities, workflow attempts,
 job start/completion, actual merge SHA and observed blocker. Fail the pilot on

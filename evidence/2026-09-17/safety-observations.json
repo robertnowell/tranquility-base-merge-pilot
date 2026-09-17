@@ -1,0 +1,2545 @@
+{
+  "edited": [
+    {
+      "checked_at": "2026-09-17T22:10:23.405533+00:00",
+      "prs": [
+        {
+          "number": 4,
+          "state": "OPEN",
+          "headRefOid": "a74cd0db9a6f04c1d227112d3bfb8e461de209ab",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280658396/job/105401547894",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:10:22Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:10:20Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:10:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:11:01.289861+00:00",
+      "prs": [
+        {
+          "number": 4,
+          "state": "OPEN",
+          "headRefOid": "7fee46a008192aea02df3b85244604f3f67bbf05",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280674577/job/105401668699",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:10:48Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:10:58Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:10:58Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:11:15.156060+00:00",
+      "prs": [
+        {
+          "number": 4,
+          "state": "OPEN",
+          "headRefOid": "7fee46a008192aea02df3b85244604f3f67bbf05",
+          "mergeStateStatus": "CLEAN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:11:13Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280674577/job/105401668699",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:10:48Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:11:11Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:11:11Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:11:29.257901+00:00",
+      "prs": [
+        {
+          "number": 4,
+          "state": "MERGED",
+          "headRefOid": "7fee46a008192aea02df3b85244604f3f67bbf05",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:11:13Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280674577/job/105401668699",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:10:48Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:11:20Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:11:20Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "failure": [
+    {
+      "checked_at": "2026-09-17T22:12:44.912069+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "OPEN",
+          "headRefOid": "8a3948b3f8c09d8e105637fdf6ef9ae5794677da",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:41Z",
+              "conclusion": "FAILURE",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280844633/job/105402152671",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:12:37Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:44Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:12:44Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:13:14.264546+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "OPEN",
+          "headRefOid": "8a3948b3f8c09d8e105637fdf6ef9ae5794677da",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:41Z",
+              "conclusion": "FAILURE",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280844633/job/105402152671",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:12:37Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:46Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:12:47Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:13:51.911220+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "OPEN",
+          "headRefOid": "8a3948b3f8c09d8e105637fdf6ef9ae5794677da",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:41Z",
+              "conclusion": "FAILURE",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280844633/job/105402152671",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:12:37Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:12:46Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:12:47Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:14:04.724012+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "OPEN",
+          "headRefOid": "4fdb00a506b422ebfa3c6f60c7b1e817c875a19a",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280958461/job/105402516308",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:13:57Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:14:04Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:14:05Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:14:18.594082+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "OPEN",
+          "headRefOid": "4fdb00a506b422ebfa3c6f60c7b1e817c875a19a",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280958461/job/105402516308",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:13:57Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:14:18Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:14:18Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:14:31.864508+00:00",
+      "prs": [
+        {
+          "number": 5,
+          "state": "MERGED",
+          "headRefOid": "4fdb00a506b422ebfa3c6f60c7b1e817c875a19a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:14:20Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35280958461/job/105402516308",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:13:57Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:14:26Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:14:26Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "conflict": [
+    {
+      "checked_at": "2026-09-17T22:15:04.398851+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "OPEN",
+          "headRefOid": "a4a6c6f09056a6cb1ce49bd441781944e2a64eaa",
+          "mergeStateStatus": "BEHIND",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:01Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281015364/job/105402697403",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:37Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:04Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "2f462bb6eed149d8789fb36070ad3c4890e99082",
+          "mergeStateStatus": "BEHIND",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281020362/job/105402715311",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:40Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:05Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:06Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:15:21.964589+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "OPEN",
+          "headRefOid": "a4a6c6f09056a6cb1ce49bd441781944e2a64eaa",
+          "mergeStateStatus": "BEHIND",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:01Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281015364/job/105402697403",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:37Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:22Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "2f462bb6eed149d8789fb36070ad3c4890e99082",
+          "mergeStateStatus": "BEHIND",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281020362/job/105402715311",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:40Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:23Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:24Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:15:37.570672+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "OPEN",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:37Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:38Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "2f462bb6eed149d8789fb36070ad3c4890e99082",
+          "mergeStateStatus": "BEHIND",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281020362/job/105402715311",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:40Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:23Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:24Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:15:54.267417+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "OPEN",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:50Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:51Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "2f462bb6eed149d8789fb36070ad3c4890e99082",
+          "mergeStateStatus": "BEHIND",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281020362/job/105402715311",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:40Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:23Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:15:24Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:16:09.820495+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "2f462bb6eed149d8789fb36070ad3c4890e99082",
+          "mergeStateStatus": "DIRTY",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:03Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281020362/job/105402715311",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:14:40Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:11Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:12Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:16:48.502136+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [],
+          "statusCheckRollup": []
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:17:03.818181+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:55Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:17:21.844997+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:17:38.538060+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:17:54.998414+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:18:10.908436+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:18:26.180669+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:18:41.762447+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:18:57.523462+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:19:13.314257+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:19:29.685101+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:19:45.852663+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:20:02.576110+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:20:18.899468+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:20:34.721750+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:20:50.749541+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:21:06.501138+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:21:22.283109+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:21:37.694536+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "OPEN",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "CLEAN",
+          "labels": [],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:21Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:17:21Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:21:53.370592+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "MERGED",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:21:51Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:21:52Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:23:03.533466+00:00",
+      "prs": [
+        {
+          "number": 6,
+          "state": "MERGED",
+          "headRefOid": "ff6c4add97663170c00a37dab09eba409e4f1a1a",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:15:55Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281095261/job/105402953398",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:15:31Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:16:02Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:16:02Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "state": "MERGED",
+          "headRefOid": "1024c71682363b2707d89e3821934dec00f63336",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:17:19Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281214359/job/105403340121",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:16:55Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:21:51Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:21:52Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hold": [
+    {
+      "checked_at": "2026-09-17T22:22:41.712995+00:00",
+      "prs": [
+        {
+          "number": 8,
+          "state": "OPEN",
+          "headRefOid": "c3b35e880130e17adc35348fbc61160de7931c22",
+          "mergeStateStatus": "CLEAN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            },
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoXw",
+              "name": "queue-hold",
+              "description": "Keep this pilot PR out of the merge queue",
+              "color": "D93F0B"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:22:39Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281669321/job/105404785501",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:22:15Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:22:41Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:22:41Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:23:25.675079+00:00",
+      "prs": [
+        {
+          "number": 8,
+          "state": "OPEN",
+          "headRefOid": "c3b35e880130e17adc35348fbc61160de7931c22",
+          "mergeStateStatus": "CLEAN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            },
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoXw",
+              "name": "queue-hold",
+              "description": "Keep this pilot PR out of the merge queue",
+              "color": "D93F0B"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:22:39Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281669321/job/105404785501",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:22:15Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:22:41Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:22:41Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:24:35.700111+00:00",
+      "prs": [
+        {
+          "number": 8,
+          "state": "OPEN",
+          "headRefOid": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281865700/job/105405391172",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:24:30Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:24:30Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:24:30Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:24:49.453769+00:00",
+      "prs": [
+        {
+          "number": 8,
+          "state": "OPEN",
+          "headRefOid": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+          "mergeStateStatus": "BLOCKED",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "0001-01-01T00:00:00Z",
+              "conclusion": "",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281865700/job/105405391172",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:24:30Z",
+              "status": "IN_PROGRESS",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:24:46Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:24:47Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "checked_at": "2026-09-17T22:25:03.956652+00:00",
+      "prs": [
+        {
+          "number": 8,
+          "state": "MERGED",
+          "headRefOid": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+          "mergeStateStatus": "UNKNOWN",
+          "labels": [
+            {
+              "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+              "name": "merge-queue",
+              "description": "Explicit admission to the supervised queue pilot",
+              "color": "1D76DB"
+            }
+          ],
+          "statusCheckRollup": [
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:24:54Z",
+              "conclusion": "SUCCESS",
+              "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281865700/job/105405391172",
+              "name": "Source audit",
+              "startedAt": "2026-09-17T22:24:30Z",
+              "status": "COMPLETED",
+              "workflowName": "Source audit"
+            },
+            {
+              "__typename": "CheckRun",
+              "completedAt": "2026-09-17T22:24:58Z",
+              "conclusion": "NEUTRAL",
+              "detailsUrl": "https://kodiakhq.com/",
+              "name": "kodiakhq: status",
+              "startedAt": "2026-09-17T22:24:58Z",
+              "status": "COMPLETED",
+              "workflowName": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hold_immediately_before_release": {
+    "headRefOid": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+    "labels": [
+      {
+        "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+        "name": "merge-queue",
+        "description": "Explicit admission to the supervised queue pilot",
+        "color": "1D76DB"
+      },
+      {
+        "id": "LA_kwDOUctxl88AAAAC2BSoXw",
+        "name": "queue-hold",
+        "description": "Keep this pilot PR out of the merge queue",
+        "color": "D93F0B"
+      }
+    ],
+    "mergeStateStatus": "BLOCKED",
+    "state": "OPEN",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "completedAt": "0001-01-01T00:00:00Z",
+        "conclusion": "",
+        "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281865700/job/105405391172",
+        "name": "Source audit",
+        "startedAt": "2026-09-17T22:24:30Z",
+        "status": "IN_PROGRESS",
+        "workflowName": "Source audit"
+      },
+      {
+        "__typename": "CheckRun",
+        "completedAt": "2026-09-17T22:24:30Z",
+        "conclusion": "NEUTRAL",
+        "detailsUrl": "https://kodiakhq.com/",
+        "name": "kodiakhq: status",
+        "startedAt": "2026-09-17T22:24:30Z",
+        "status": "COMPLETED",
+        "workflowName": ""
+      }
+    ]
+  },
+  "hold_immediately_after_release": {
+    "headRefOid": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+    "labels": [
+      {
+        "id": "LA_kwDOUctxl88AAAAC2BSoJw",
+        "name": "merge-queue",
+        "description": "Explicit admission to the supervised queue pilot",
+        "color": "1D76DB"
+      }
+    ],
+    "mergeStateStatus": "BLOCKED",
+    "state": "OPEN",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "completedAt": "0001-01-01T00:00:00Z",
+        "conclusion": "",
+        "detailsUrl": "https://github.com/robertnowell/tranquility-base-merge-pilot/actions/runs/35281865700/job/105405391172",
+        "name": "Source audit",
+        "startedAt": "2026-09-17T22:24:30Z",
+        "status": "IN_PROGRESS",
+        "workflowName": "Source audit"
+      },
+      {
+        "__typename": "CheckRun",
+        "completedAt": "2026-09-17T22:24:30Z",
+        "conclusion": "NEUTRAL",
+        "detailsUrl": "https://kodiakhq.com/",
+        "name": "kodiakhq: status",
+        "startedAt": "2026-09-17T22:24:30Z",
+        "status": "COMPLETED",
+        "workflowName": ""
+      }
+    ]
+  },
+  "hold_identities": {
+    "held_green_candidate": "c3b35e880130e17adc35348fbc61160de7931c22",
+    "edited_head": "7986fa29318c5bcae514c9606e1c42c269d850c3",
+    "intermediate_edited_head": "4beb9f76378e2bbcf55df2a17a7a02c26fda75d3"
+  }
+}
